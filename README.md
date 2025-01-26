@@ -61,7 +61,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Di-Castro/">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com">MLinkedIn</a>
+    <a href="https://www.linkedin.com">LinkedIn</a>
 </p>
 
 </p>
